@@ -1,4 +1,0 @@
-\beamer@sectionintoc {1}{Motivation}{4}{0}{1}
-\beamer@subsectionintoc {1}{1}{Changed to something more reasonable}{4}{0}{1}
-\beamer@sectionintoc {2}{Results}{5}{0}{2}
-\beamer@subsectionintoc {2}{1}{Somethin' else}{5}{0}{2}
